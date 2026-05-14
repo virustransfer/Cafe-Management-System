@@ -131,7 +131,7 @@ Add screenshots here later.
 
 Example:
 
-![Home Page](./screenshots/home.png)<img width="1216" height="603" alt="image" src="https://github.com/user-attachments/assets/614b2769-1e91-4c52-bff0-6f126b666439" />
+<img width="1216" height="603" alt="image" src="https://github.com/user-attachments/assets/614b2769-1e91-4c52-bff0-6f126b666439" />
 
 
 ---
